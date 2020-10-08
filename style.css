@@ -62,3 +62,71 @@ body{
  .laptop{
      margin-top: 80px; 
  }
+
+.about{
+    margin-top: 80px;
+}
+.about h2{
+    color: #FF9C35;
+}
+
+hr{
+    border: none;
+    height: 5px;
+    width: 100px;
+    background-color: #FF9C35;
+}
+
+.bag{
+    width: 220px;
+    height: 220px;
+    padding: 45px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px 2px lightgray;
+    border-bottom-left-radius: 50px;
+}
+.bag img{
+    width: 90px;
+}
+
+.bag h3{
+    margin-top: 35px;
+    font-size: 25px;
+}
+
+.perfume{
+    width: 220px;
+    height: 220px;
+    padding: 45px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px 2px lightgray;
+    border-bottom-right-radius: 50px;
+}
+
+.perfume img{
+    width: 90px;
+}
+
+.perfume h3{
+    margin-top: 35px;
+    font-size: 25px;
+}
+
+.shoe{
+    width: 220px;
+    height: 220px;
+    padding: 45px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px 2px lightgray;
+    border-bottom-right-radius: 50px;
+    margin-top: -40px;
+}
+
+.shoe img{
+    width: 90px;
+}
+
+.shoe h3{
+    margin-top: 35px;
+    font-size: 25px;
+}
